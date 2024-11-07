@@ -10,7 +10,6 @@ This project leverages the Python sentiment analysis library Pysentiment and ext
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
@@ -26,7 +25,7 @@ This project leverages the Python sentiment analysis library Pysentiment and ext
 
 ### Prerequisites
 
-Required python libraries: Pysentiment2, pandas, nltk, abc, re, numpy, os
+Required python libraries: Pysentiment2, pandas, nltk, abc, re, numpy, os  
 Python version: 3.11
 
 ### Installation
