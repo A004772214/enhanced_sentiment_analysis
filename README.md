@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
-A brief description of your project, what it does, and why it’s useful.
+This project is built on the Python sentiment analysis library Pysentiment. It extends the library’s functionality by adding additional sentiment categories.
 
 ---
 
