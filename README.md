@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
-This project is built on the Python sentiment analysis library Pysentiment. It extends the library’s functionality by adding additional sentiment categories.
+This project leverages the Python sentiment analysis library Pysentiment and extends its capabilities by incorporating additional sentiment categories, including "Uncertainty" and "Litigious". It also integrates the Loughran-McDonald Dictionary for more specialized financial and economic sentiment analysis. Additionally, the project includes a feature to count the total number of words in the analyzed text files, resulting in a more comprehensive and detailed sentiment analysis output.
 
 ---
 
