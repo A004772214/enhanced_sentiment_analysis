@@ -41,3 +41,8 @@ cd enhanced_sentiment_analysis
 
 # Install dependencies
 pip install -r requirements.txt
+
+### Usage
+
+Required python libraries: Pysentiment2, pandas, nltk, abc, re, numpy, os  
+Python version: 3.11
